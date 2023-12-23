@@ -1,1 +1,4 @@
-# internet_store
+
+## npm run dev - запуск сервера
+
+## npm start - запуск клієнта
